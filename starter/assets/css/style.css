@@ -8,13 +8,6 @@ body {
     background-color: #d9dcd6;
 }
 
-header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
-}
-
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -44,6 +37,14 @@ a {
 #seo {
     color: #d9dcd6;
 }
+
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
 
 header section {
     padding-top: 15px;
@@ -81,6 +82,27 @@ figure {
     border: 0;
   }
 
+article {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+article section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+article section img {
+    max-height: 200px;
+    max-width: 300px;
+    
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -92,12 +114,6 @@ figure {
     float: right;
     margin-left: 25px;
   
-}
-
-article {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 aside {
@@ -123,20 +139,7 @@ aside section img {
 }
 
 
-article section {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-article section img {
-    max-height: 200px;
-    max-width: 300px;
-    
-}
 
 footer {
     padding: 30px;
