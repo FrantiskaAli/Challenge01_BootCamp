@@ -8,7 +8,7 @@ Has been opitmised for search engines using semantic HTML, images alternations a
 Reading in browser
 
 ## Screenshot
-![screenshot](Challenge01_BootCamp\assets\images\ScreenShot.jpg)
+![screenshot](https://github.com/FrantiskaAli/Challenge01_BootCamp/blob/main/assets/images/ScreenShot.jpg)
 
 ## Credits
 Originaly made by &copy; 2019 Horiseon Social Solution Services, Inc. , altered by Fran Rechkova
