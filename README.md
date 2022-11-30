@@ -8,7 +8,7 @@ Has been opitmised for search engines using semantic HTML, images alternations a
 Reading in browser
 
 ## Screenshot
-.\assets\images\ScreenShot.jpg
+![image info](.\assets\images\ScreenShot.jpg)
 
 ## Credits
 Originaly made by &copy; 2019 Horiseon Social Solution Services, Inc. , altered by Fran Rechkova
